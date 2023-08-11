@@ -1,29 +1,27 @@
-# Frontend Mentor - Solução de componente de código QR
+# Frontend Mentor - QR code component solution
 
 Esta é uma solução para o [desafio do componente de código QR no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
 ## Índice
 
-- [Visão geral](#visão geral)
-   - [Captura de tela](#captura de tela)
-   - [Links](#links)
-- [Meu processo](#meu-processo)
-   - [Construído com](#construído com)
-   - [O que aprendi](#o-que-aprendi)
-   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Overview](#Overview)
+     - [Screenshot](#screenshot)
+     - [Links](#links)
+- [My process](#my-process)
+     - [Built with](#built with)
+     - [What I Learned](#What-I-Learned)
+     - [Continuous Development](#Continuous Development)
 
 ## Overview
 
-### Screenshot
+### screenshot
 
-![](./images/screenshot.png)
+![](./images/screenshot.PNG)
 
 ### Links
 
-- Solution URL: [https://github.com/devaramnye/qr-code-component-challange]
-- Live Site URL: [https://devaramnye.github.io/qr-code-component-challange/]
+h - Solution URL: [https://www.w3schools.com/w3css/w3css_responsive.asp]
+- - Live Site URL: [https://github.com/rmaxyz/qr-code-component-main]
 
 ## My process
 
@@ -32,6 +30,10 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
+
+### What I learned
+
+I learned today that I should avoid setting heights in my CSS as it loses responsiveness. Using percentage in widths relative to the parent is a good way to work responsive. I learned to use (rem) for full width as it improves user experience changing device/browser font size. I also learned to avoid using px for font-size, so in this project and in the future I will use rem for font-size.
 
 ```<body>
   <div class="conteiner">
@@ -112,4 +114,6 @@ body {
 
 ### Continued development
 
-I am currently working on responsive coding. Currently doing the 2 challange from Kevinpowell. Day one started (03.08.2023) and already day one helped me extremly by understanding that CSS is responsive by default and we are mainly causing the problems of the responsive threatment of CSS. I will continue working on my knowledge of grid and flexbox.
+Day one started (09.08.2023) and already day one helped me extremely by understanding that CSS is responsive by default and we are mainly causing the problems of the responsive threatment of CSS. 
+
+
