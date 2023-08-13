@@ -8,9 +8,9 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
      - [Screenshot](#screenshot)
      - [Links](#links)
 - [My process](#my-process)
-     - [Built with](#built with)
+     - [Built with](#built-with)
      - [What I Learned](#What-I-Learned)
-     - [Continuous Development](#Continuous Development)
+     - [Continuous Development](#Continuous-Development)
 
 ## Overview
 
